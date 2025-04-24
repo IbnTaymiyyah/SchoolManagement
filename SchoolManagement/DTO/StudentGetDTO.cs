@@ -8,13 +8,13 @@ namespace SchoolManagement.DTO
         public int Id { get; set; }
 
        
-        public string Name { get; set; } = string.Empty;
+        public string Name { get; set; } 
 
     
-        public string Gender { get; set; } = string.Empty;
+        public string Gender { get; set; } 
 
 
-        public string Address { get; set; } = string.Empty;
+        public string Address { get; set; } 
 
 
         public int PhoneNumber { get; set; }
